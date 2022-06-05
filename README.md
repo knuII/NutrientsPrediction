@@ -1,6 +1,7 @@
 # HackCoVIT - Team Greenify
 
-#kisan badhega to desh bhi badhega
+### #kisan badhega to desh bhi badhega
+
 We team greenify to solve a real life problem statemnt by helping farmer know the nutrients in soil in their farm quickly compared to classical lab method. Recorded data can also help in analysing soil property for future.
 
 Collab code link:- https://colab.research.google.com/drive/14RDYsYKPD4axLqAQ4yMcJHWvvDCS5h1C?usp=sharing
