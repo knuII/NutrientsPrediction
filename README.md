@@ -1,37 +1,46 @@
 # HackCoVIT - Team Greenify
 
-### #kisan badhega to desh bhi badhega
+## #kisan badhega to desh bhi badhega
 
-We team greenify to solve a real life problem statemnt by helping farmer know the nutrients in soil in their farm quickly compared to classical lab method. Recorded data can also help in analysing soil property for future.
+### Introduction
 
-Collab code link:- https://colab.research.google.com/drive/14RDYsYKPD4axLqAQ4yMcJHWvvDCS5h1C?usp=sharing
+Team Greenify is on a mission to address a critical real-life problem statement: helping farmers quickly determine the nutrient content of their soil, compared to traditional lab methods. This not only saves valuable time but also assists in analyzing soil properties for future agricultural planning.
 
-dataset link :- https://data.mendeley.com/datasets/h8mht3jsbz/1
+#### Collaborative Code
+You can access our collaborative code on Google Colab: [HackCoVIT - Team Greenify Colab](https://colab.research.google.com/drive/14RDYsYKPD4axLqAQ4yMcJHWvvDCS5h1C?usp=sharing)
 
-Youtube URL:- https://youtu.be/fAT6ml-m1RY
+#### Dataset
+Our project relies on the soil nutrient dataset, which can be found here: [Soil Nutrient Dataset](https://data.mendeley.com/datasets/h8mht3jsbz/1)
 
-Website link:- https://sites.google.com/vitbhopal.ac.in/team-greenify/home
+#### Project Presentation
+Watch our project presentation on YouTube: [HackCoVIT - Team Greenify Presentation](https://youtu.be/fAT6ml-m1RY)
 
-PPT link:- https://drive.google.com/file/d/1drnHmXgVIMgITv05gyfWbMtxJ8_w3RSQ/view?usp=sharing
+#### Project Website
+Visit our project website: [Team Greenify Website](https://sites.google.com/vitbhopal.ac.in/team-greenify/home)
 
-            ***** Modules | libraries used *****
-~Numpy :-for numerical python
+#### Project Presentation (PPT)
+Access our project presentation (PPT): [Team Greenify PPT](https://drive.google.com/file/d/1drnHmXgVIMgITv05gyfWbMtxJ8_w3RSQ/view?usp=sharing)
 
-~Matplot lib :- for creating static , animated and interactive visualization {for graph and chart}
+### Modules and Libraries Used
 
-~Pandas :-For manipulation of data
+- **Numpy**: For numerical operations in Python.
+- **Matplotlib**: Used for creating static, animated, and interactive visualizations, including graphs and charts.
+- **Pandas**: For data manipulation and analysis.
+- **Math**: Provides mathematical functions for various operations.
+- **Statsmodel**: Offers classes and functions for statistical modeling, tests, and data exploration.
+- **Tensorflow**: Provides a workflow for developing and training machine learning models.
+- **Scikit-learn (sklearn)**: A powerful library for machine learning and statistical modeling, including classification, clustering, and dimension reduction.
 
-~Math :-for mathametical operations
+### How to Run the Code
 
-~Statsmodel :- provide class and function for estimation of many different statastical model as well as conducting stastical test and data exploration
+You have two options to run our code:
 
-~Tensorflow :- Provide collection of workflow to devlop and train model
+1. **Google Colab (Recommended)**: 
+   You can directly run the code on Google Colab by clicking the following link: [HackCoVIT - Team Greenify Colab](https://colab.research.google.com/drive/14RDYsYKPD4axLqAQ4yMcJHWvvDCS5h1C?usp=sharing).
 
-~sklearn with it supported libraries like preprocessing & decomposition etc :- used for machine learning and stastical modelling including classification , clustering and dimension reduction .
+2. **Local Setup**:
+   If you prefer to run the code locally, please follow these steps:
+   - Download the code and dataset.
+   - Update the dataset path in the code to the local path where you have stored the dataset.
 
-            *************** To run code ******************
-One can directly run code on colab link provided above
 
-or
-
-can download code and dataset | User needs to update dataset path in code for this case .
